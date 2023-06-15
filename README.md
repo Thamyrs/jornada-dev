@@ -22,3 +22,5 @@ npm start
 ## Status do projeto
 
 *Fase 1/8:* Introdução das tecnologias e Instalação das ferramentas. 
+
+*Fase 2/8:* Front End e Componente Vídeo
