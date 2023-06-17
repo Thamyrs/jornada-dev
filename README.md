@@ -24,3 +24,7 @@ npm start
 *Fase 1/8:* Introdução das tecnologias e Instalação das ferramentas. 
 
 *Fase 2/8:* Front End e Componente Vídeo
+
+*Fase 3/8:* Componente Footer  
+
+*Fase 4/8:* Componente Sidebar e preparação do UI para receber DB
