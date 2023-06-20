@@ -1,7 +1,8 @@
 # Jornada Dev
 Repositório para as atividades do Workshop de front-end da EBAC. 
 
-Basicamente, o projeto final é um clone do TikTok. O projeto final, de autoria dos instrutores da EBAC, pode ser pré-visualizado através [deste link](https://jornada-dev.web.app/).
+Basicamente, o projeto trata-se de um clone do TikTok, mentorado pela Ebac.
+Você pdoe visualizar o projeto no ar pelo link: https://tiktok-jornada-4cd81.web.app/
 
 ## Instalação
 
