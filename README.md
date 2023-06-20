@@ -2,6 +2,9 @@
 Repositório para as atividades do Workshop de front-end da EBAC. 
 
 Basicamente, o projeto trata-se de um clone do TikTok, mentorado pela Ebac.
+
+Foram usados o React e o Firebase do google para a construção do projeto. 
+
 Você pdoe visualizar o projeto no ar pelo link: https://tiktok-jornada-4cd81.web.app/
 
 ## Instalação
